@@ -18,9 +18,10 @@ class ChirpCreated
     /**
      * Create a new event instance.
      */
-    public function __construct(publicv Chirp $chirp)
+    public function __construct(public Chirp $chirp)
     {
         //
+
     }
 
     /**
