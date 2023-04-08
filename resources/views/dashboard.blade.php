@@ -31,22 +31,22 @@
         <div class="grid grid-flow-col sm:grid-flow-col auto-cols-max sm:auto-cols-max gap-12 justify-center">
             <div>
                 <x-card
-                    src="https://images.unsplash.com/photo-1520256788229-d4640c632e4b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80"
-                    title="Adidassssssssss.........." badge="99+"
+                    src="https://images.unsplash.com/photo-1560072810-1cffb09faf0f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                    title="Asics" badge="99+"
                     content="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, exercitationem?`"
                     type="fashion" products="adidas" />
             </div>
             <div>
                 <x-card
-                    src="https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/3/30/cb6f69a4-7641-48a0-b1b9-33e299e8cf9a.jpg"
-                    title="Geofmax Casual" badge="99+"
+                    src="https://images.unsplash.com/photo-1636594894147-30f082a3faeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80"
+                    title="Vans" badge="99+"
                     content="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, exercitationem?`"
                     type="fashion" products="Geofmax" />
             </div>
             <div>
                 <x-card
-                    src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-                    title="Nike..." badge="99+"
+                    src="https://images.unsplash.com/photo-1608231387042-66d1773070a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+                    title="Puma" badge="99+"
                     content="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, exercitationem?`"
                     type="fashion" products="Nike" />
             </div>
@@ -58,7 +58,7 @@
             <div>
                 <x-card
                     src="https://images.unsplash.com/photo-1520256788229-d4640c632e4b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80"
-                    title="Adidassssssssss.........." badge="99+"
+                    title="Adidas" badge="99+"
                     content="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, exercitationem?`"
                     type="fashion" products="adidas" />
             </div>
@@ -77,5 +77,10 @@
                     type="fashion" products="Nike" />
             </div>
         </div>
+
     </div>
+
+
+    <x-footer />
+
 </x-app-layout>
